@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DTDSI
 - 👀 I’m interested in learning more about Data Science.
 - 🌱 I’m currently learning database management and files.
-- 💞️ I’m looking to collaborate on programming languages.
+- 💞️ I’m looking forward to learning algorithms and programming languages.
 - 📫 How to reach me in case I need to correct something is at ddavisteemac@gmail.com
 
 <!---
