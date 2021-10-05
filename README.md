@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about Data Science.
 - 🌱 I’m currently learning database management and files.
 - 💞️ I’m looking forward to learning algorithms and programming languages.
-- 📫 How to reach me in case I need to correct something is at ddavisteemac@gmail.com
+- 📫 In case you need to reach me, my email is ddavisteemac@gmail.com
 
 <!---
 DTDSI/DTDSI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
